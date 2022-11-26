@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Anusha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vadlakonda-anusha-8993951b1/)](https://www.linkedin.com/in/vadlakonda-anusha-8993951b1/)
 [![Website Badge](https://img.shields.io/badge/WebSite-Anusha-green)](https://www.akash)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Anusha-yellow)](https://stackoverflow.com/users/3687251/aakash-)
+[![Website Badge](https://img.shields.io/badge/StackOverflow-Anusha-yellow)](https://stackoverflow.com/users/20545647/vadlakonda-anusha)
 
 I'm
 Currenntly working as Mainframe Tester in health industry and had a passion to increase my knowledge on coding.I have a wide range of skills that include back-end development using open source technologies (NodeJs), front-end development (ReactJs, HTML5, CSS3, Javascript, Responsive, UX),database(MongoDB), selenium Automation Testing,Mainframe claims testing.
