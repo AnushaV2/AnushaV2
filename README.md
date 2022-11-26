@@ -1,6 +1,6 @@
 ### Hi Developers 👋
 
-![Linkedin Badge](https://img.shields.io/badge/-Anusha]]-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vadlakonda-anusha-8993951b1/)](https://www.linkedin.com/in/anusha-8993951b1/)
+![Linkedin Badge](https://img.shields.io/badge/-Anusha]-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vadlakonda-anusha-8993951b1/)](https://www.linkedin.com/in/anusha-8993951b1/)
 [![Website Badge](https://img.shields.io/badge/WebSite-Anusha-green)](https://www.akash)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Anusha-yellow)](https://stackoverflow.com/users/3687251/aakash-)
 
