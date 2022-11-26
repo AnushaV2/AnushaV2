@@ -4,7 +4,7 @@
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Anusha-yellow)](https://stackoverflow.com/users/20545647/vadlakonda-anusha)
 
 I'm
-Currenntly working as Mainframe Tester in Health Care industry and had a passion to increase my knowledge on coding.I have a wide range of skills that include back-end development using open source technologies (NodeJs), front-end development (ReactJs, HTML5, CSS3, Javascript, Responsive, UX),database(MongoDB), selenium Automation Testing,Mainframe claims testing.
+Currently working as Mainframe Tester in Health Care industry and had a passion to increase my knowledge on coding.I have a wide range of skills that include back-end development using open source technologies (NodeJs), front-end development (ReactJs, HTML5, CSS3, Javascript, Responsive, UX),database(MongoDB), selenium Automation Testing,Mainframe claims testing.
 
 ![Visitor Count](https://profile-counter.glitch.me/AnushaV2/count.svg)
 
